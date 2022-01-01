@@ -1,0 +1,4 @@
+2021-12-30 15:54:14,338:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-30 15:54:16,079:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h,24h%20 HTTP/1.1" 200 None
+2021-12-30 15:54:16,102:DEBUG:<Response [200]>
+2021-12-30 15:54:16,109:DEBUG:CSV File has been Generated : Path - C:/Users/HP/PycharmProjects/pandas_study/week1/crypto_csv.csv

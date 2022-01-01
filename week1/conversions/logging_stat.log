@@ -1,0 +1,23 @@
+2021-12-31 13:47:07,811:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2021-12-31 13:47:08,401:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h,24h HTTP/1.1" 200 None
+2021-12-31 13:47:08,404:INFO:<Response [200]>
+2021-12-31 13:47:08,412:INFO:CSV File has been Generated : FILENAME - crypto.csv
+2021-12-31 13:47:08,434:DEBUG:csv DF used for generating different formats :              id symbol  ... roi.currency roi.percentage
+0       bitcoin    btc  ...          NaN            NaN
+1      ethereum    eth  ...          btc   10464.000082
+2   binancecoin    bnb  ...          NaN            NaN
+3        tether   usdt  ...          NaN            NaN
+4        solana    sol  ...          NaN            NaN
+..          ...    ...  ...          ...            ...
+95         nexo   nexo  ...          usd    2291.655208
+96    holotoken    hot  ...          eth     775.822296
+97  bitkub-coin    kub  ...          NaN            NaN
+98     true-usd   tusd  ...          NaN            NaN
+99         msol   msol  ...          NaN            NaN
+
+[100 rows x 31 columns]
+2021-12-31 13:47:08,434:INFO:Crypto.csv is available
+2021-12-31 13:47:08,660:INFO:Excel file has been generated : Filename - Crypto.xlsx
+2021-12-31 13:47:08,692:INFO:HTML is generated from CSV : Filename - Crypto.html
+2021-12-31 13:47:08,701:INFO:XML file has been generated : Filename - Crypto.xml
+2021-12-31 13:47:09,202:INFO:pdf file has been generated : Filename - Crypto.pdf
