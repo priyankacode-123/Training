@@ -17,7 +17,7 @@ def json_to_csv(json_data, file_name):
     Creates CSV with the json object received
     :param json_data: JSON Object
     :param file_name: CSV file has to be created
-    :return: dataframe containing normalized unharmfulCSV data
+    :return: dataframe containing normalized CSV data
     """
     try:
         df = pd.json_normalize(json_data)

@@ -6,7 +6,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import logging
 
-logging.basicConfig(filename='logging_stat.log', level=logging.DEBUG,
+logging.basicConfig(filename='logging_stat.log', level=logging.INFO,
                     format='%(asctime)s:%(levelname)s:%(message)s', filemode='w')
 
 PATH = 'C:/Users/HP/PycharmProjects/pandas_study/week1/'
