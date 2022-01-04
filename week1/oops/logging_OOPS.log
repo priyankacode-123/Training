@@ -1,0 +1,78 @@
+2022-01-03 14:44:51,168:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2022-01-03 14:44:51,887:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2022-01-03 14:44:51,921:INFO:<Response [200]>
+2022-01-03 14:44:51,981:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-03 14:44:52,229:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-03 14:44:52,261:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-03 14:44:52,982:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-03 14:48:24,423:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2022-01-03 14:48:25,371:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2022-01-03 14:48:25,377:INFO:<Response [200]>
+2022-01-03 14:48:25,397:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-03 14:48:25,612:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-03 14:48:25,641:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-03 14:48:26,136:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-03 14:49:31,190:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2022-01-03 14:49:31,888:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2022-01-03 14:49:31,897:INFO:<Response [200]>
+2022-01-03 14:49:31,932:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-03 14:49:31,949:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-03 14:49:32,134:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-03 14:49:32,163:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-03 14:49:32,661:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-03 16:31:16,039:DEBUG:Starting new HTTPS connection (1): api.coingecko.com:443
+2022-01-03 16:31:16,729:DEBUG:https://api.coingecko.com:443 "GET /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h HTTP/1.1" 200 None
+2022-01-03 16:31:16,742:INFO:<Response [200]>
+2022-01-03 16:31:16,781:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-03 16:31:16,812:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-03 16:31:17,036:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-03 16:31:17,069:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-03 16:31:17,634:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:08:04,114:INFO:<Response [200]>
+2022-01-04 09:08:04,122:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:08:04,177:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:08:04,414:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:08:04,444:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:08:05,269:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:36:21,311:INFO:<Response [200]>
+2022-01-04 09:36:21,318:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:36:21,335:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:36:21,526:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:36:21,555:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:36:22,092:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:43:30,306:INFO:<Response [200]>
+2022-01-04 09:43:30,312:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:43:30,330:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:43:30,525:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:43:30,554:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:43:31,058:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:45:02,762:INFO:<Response [200]>
+2022-01-04 09:45:02,769:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:45:02,786:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:45:03,006:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:45:03,038:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:45:03,547:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:45:15,740:INFO:<Response [200]>
+2022-01-04 09:45:15,779:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:45:15,798:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:45:15,985:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:45:16,032:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:45:16,524:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:45:30,739:INFO:<Response [200]>
+2022-01-04 09:45:30,745:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:45:30,763:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:45:30,956:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:45:30,988:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:45:31,481:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 09:47:48,321:INFO:<Response [200]>
+2022-01-04 09:47:48,328:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 09:47:48,344:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 09:47:48,569:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 09:47:48,598:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 09:47:49,111:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-04 14:09:58,676:INFO:<Response [200]>
+2022-01-04 14:09:58,684:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-04 14:09:58,717:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-04 14:09:58,975:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-04 14:09:59,006:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-04 14:09:59,661:INFO:pdf file has been generated : Filename - cry.pdf
