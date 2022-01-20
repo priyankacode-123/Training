@@ -76,3 +76,110 @@
 2022-01-04 14:09:58,975:INFO:Excel file has been generated : Filename - cry.xlsx
 2022-01-04 14:09:59,006:INFO:HTML is generated from CSV : Filename - cry.html
 2022-01-04 14:09:59,661:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-16 12:01:08,843:INFO:<Response [200]>
+2022-01-16 12:01:08,852:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-16 12:01:08,909:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-16 12:01:09,144:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-16 12:01:09,174:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-16 12:01:09,919:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-16 15:07:48,846:INFO:<Response [200]>
+2022-01-16 15:07:48,853:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-16 15:07:48,888:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-16 15:07:49,136:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-16 15:07:49,168:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-16 15:07:49,774:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-18 06:53:25,297:INFO:<Response [200]>
+2022-01-18 06:53:25,308:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-18 06:53:25,366:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-18 06:53:25,596:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-18 06:53:25,627:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-18 06:53:26,339:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-18 07:58:22,972:ERROR:Error in establishing connection with API HTTPSConnectionPool(host='api.coingecko.com', port=443): Max retries exceeded with url: /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001FFA5308580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-01-18 07:59:15,490:ERROR:Error in establishing connection with API HTTPSConnectionPool(host='api.coingecko.com', port=443): Max retries exceeded with url: /api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=100&page=1&sparkline=false&price_change_percentage=1h%2C24h (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001E355018580>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+2022-01-18 08:00:26,073:INFO:<Response [200]>
+2022-01-18 08:00:26,080:INFO:CSV File has been Generated : Filename - cry.csv
+2022-01-18 08:00:26,097:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-18 08:00:26,291:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-18 08:00:26,321:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-18 08:00:26,815:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:06:35,771:INFO:<Response [200]>
+2022-01-19 10:06:35,779:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:06:35,832:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:06:35,839:ERROR:Got value Error while trying to write Excel File 'charmap' codec can't decode byte 0x81 in position 18: character maps to <undefined>
+2022-01-19 10:06:35,870:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:06:36,592:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:09:53,354:INFO:<Response [200]>
+2022-01-19 10:09:53,361:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:09:53,380:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:10:49,537:INFO:<Response [200]>
+2022-01-19 10:10:49,544:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:10:49,566:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:11:32,584:INFO:<Response [200]>
+2022-01-19 10:11:32,591:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:11:32,609:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:11:32,886:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-19 10:11:32,917:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:11:33,462:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:28:51,100:INFO:<Response [200]>
+2022-01-19 10:28:51,106:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:28:51,154:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:28:51,161:ERROR:Got value Error while trying to write Excel File No engine for filetype: ''
+2022-01-19 10:28:51,191:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:28:51,691:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:29:57,002:INFO:<Response [200]>
+2022-01-19 10:29:57,009:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:29:57,082:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:29:57,082:ERROR:Got value Error while trying to write Excel File No engine for filetype: ''
+2022-01-19 10:29:57,112:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:29:57,629:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:30:33,680:INFO:<Response [200]>
+2022-01-19 10:30:33,687:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:30:33,703:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:30:33,704:ERROR:Got value Error while trying to write Excel File No engine for filetype: ''
+2022-01-19 10:30:33,734:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:30:34,259:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:56:34,399:INFO:<Response [200]>
+2022-01-19 10:56:34,405:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:56:34,422:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:56:34,615:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-19 10:56:34,644:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:56:35,144:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 10:59:41,209:INFO:<Response [200]>
+2022-01-19 10:59:41,215:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 10:59:41,232:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 10:59:41,456:ERROR:Got value Error while trying to write Excel File Invalid file path or buffer object type: <class 'pandas.core.frame.DataFrame'>
+2022-01-19 10:59:41,485:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 10:59:41,982:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 11:01:41,029:INFO:<Response [200]>
+2022-01-19 11:01:41,036:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:01:41,054:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:02:59,597:INFO:<Response [200]>
+2022-01-19 11:02:59,604:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:02:59,622:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:03:20,675:INFO:<Response [200]>
+2022-01-19 11:03:20,681:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:03:20,698:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:03:20,890:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-19 11:03:20,919:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 11:03:21,423:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 11:06:58,324:INFO:<Response [200]>
+2022-01-19 11:06:58,331:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:06:58,347:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:14:05,472:INFO:<Response [200]>
+2022-01-19 11:14:05,480:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:14:05,500:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:14:31,675:INFO:<Response [200]>
+2022-01-19 11:14:31,681:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:14:31,698:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:14:31,894:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-19 11:14:31,924:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 11:14:32,468:INFO:pdf file has been generated : Filename - cry.pdf
+2022-01-19 11:16:00,874:INFO:<Response [200]>
+2022-01-19 11:16:00,880:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:16:00,897:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:16:44,968:INFO:<Response [200]>
+2022-01-19 11:16:44,974:INFO:CSV File has been Generated : Filename cry.csv
+2022-01-19 11:16:44,991:INFO:XML file has been generated : Filename - Cry.xml
+2022-01-19 11:16:45,185:INFO:Excel file has been generated : Filename - cry.xlsx
+2022-01-19 11:16:45,216:INFO:HTML is generated from CSV : Filename - cry.html
+2022-01-19 11:16:45,723:INFO:pdf file has been generated : Filename - cry.pdf

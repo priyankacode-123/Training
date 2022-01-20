@@ -9,7 +9,7 @@ var = my_req.json()  # calling the JSON data
 userdata = []
 
 # collecting JSON data for each object
-for i in var['objectIDs'][:100]:
+for i in var['objectIDs'][:20]:
     detail = requests.get(url="https://collectionapi.metmuseum.org/public/collection/v1/objects/{}".format(i))
     data = detail.json()
     userdata.append(data)  # appending in a empty list
@@ -30,4 +30,4 @@ df1 = pd.concat([df, final_dict], axis=1)
 df1 = df1.drop(['additionalImages', 'constituents', 'measurements', 'tags'], axis=1)  # dropping off original columns
 
 # converting dataframes into csv
-df1.to_csv('museum_csv.csv', index=False)
+df1.to_csv('museum_csv_with20_records.csv', index=False)
