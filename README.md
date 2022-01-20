@@ -1,5 +1,5 @@
 # Converter package
 
-A package to include oops concept to convert csv into different formats while making an API call
-[Github-flavored Markdown](https://github.com/priyankacode-123/Training.git)
-to write your content.
+A package include OOPS concept to make an API call for converting json data into CSV and other file formats.
+Package uses the pandas library to perform the operation.
+
